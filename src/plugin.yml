@@ -1,0 +1,35 @@
+main: me.Tim.Survival.Survival
+name: Survival
+version: 1.0
+description: Custom features!
+author: Tim
+
+commands:
+  c:
+    description: Ga in spectator mode!
+  hallo: 
+    description: Stuur een gezellig hallo berichtje!
+  ping:
+    description: Pong!
+  welcome:
+    description: Verander je inlogbericht!
+  spawn:
+    description: Ga naar spawn!
+  listheader:
+    description: Tekst boven de spelers lijst!
+  sethome:
+    description: set een home!
+  home:
+    description: Ga naar een home!
+  delhome:
+    description: Delete een home!
+  homes:
+    description: Verkrijg je homes!
+  admin:
+    description: God stuff voor admins!
+  togglespawn:
+    description: Set teleport to spawn aan of uit!
+  maxhomes:
+    description: Bepaal het maximaal aantal homes!
+  togglehomes:
+    description: set homes aan of uit!
